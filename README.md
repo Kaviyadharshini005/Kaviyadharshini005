@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaviyadharshini005
+- 👋 Hi, I’m Kaviya
 - 👀 I’m interested in learn something new and active
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on networking
